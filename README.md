@@ -15,6 +15,7 @@
 My name is Focus, A student at CEDT-Chula
 
 I am a perfectionist who hate being one. Love armwrestling, badminton and trading. 
+# 📉📉📉📉📉
 
 ## Skills
 - None
