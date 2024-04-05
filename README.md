@@ -5,9 +5,8 @@
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-arm-wrestler.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-<a></a>
-<img src="https://media1.tenor.com/m/ytbz1Epg7Q8AAAAC/predator-arnold.gif" height="300px">
-<img src="https://media1.tenor.com/m/HIXccOOAwXoAAAAd/badminton-sports.gif" height="300px">
+<a href="https://media1.tenor.com"><img src="https://media1.tenor.com/m/ytbz1Epg7Q8AAAAC/predator-arnold.gif" height="300px"></a>
+<a href="https://media1.tenor.com"><img src="https://media1.tenor.com/m/HIXccOOAwXoAAAAd/badminton-sports.gif" height="300px"></a>
 
 My name is Focus, A student at CEDT-Chula
 
