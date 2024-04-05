@@ -5,7 +5,7 @@
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-arm-wrestler.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-![image](https://github.com/focustoplaner/focustoplaner/assets/156198236/419fea38-5bb0-4924-a077-e0fa00b882ff)
+![Badminton](https://media1.tenor.com/m/HIXccOOAwXoAAAAd/badminton-sports.gif)
 ![Handshake](https://media1.tenor.com/m/ytbz1Epg7Q8AAAAC/predator-arnold.gif)
 
 My name is Focus, A student at CEDT-Chula
