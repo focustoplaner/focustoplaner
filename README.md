@@ -1,16 +1,33 @@
-### Hi there 👋
+# About Me 💪🏼🦵🏼❚█══█❚
 
-<!--
-**focustoplaner/focustoplaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-Here are some ideas to get you started:
+My name is Focus, A student at CEDT-Chula
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a perfectionist who hate being one 📏.
+
+## Skills
+- None
+
+## Hobby
+- Armwrestling
+- Leg day
+- Singing
+
+## 📊 Github Stats
+
+![focustoplaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=focustoplaner&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=focustoplaner)
+
+## Github Contrivution Stats
+![focustoplaner's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=focustoplaner)
+
+## 🛠️ Languages and Tools:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=focustoplaner&layout=compact&theme=radical)
