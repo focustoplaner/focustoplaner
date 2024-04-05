@@ -1,13 +1,15 @@
-# About Me 💪🏼🦵🏼❚█══█❚
+# About Me 💪🦵❚█══█❚ 
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
+![image](https://github.com/focustoplaner/focustoplaner/assets/156198236/20b56c82-5e6e-4ec0-b411-d8e0613ac1fd)
+
 My name is Focus, A student at CEDT-Chula
 
-I am a perfectionist who hate being one 📏.
+I am a perfectionist who hate being one 📏. Love armwrestling and badminton
 
 ## Skills
 - None
@@ -16,6 +18,7 @@ I am a perfectionist who hate being one 📏.
 - Armwrestling
 - Leg day
 - Singing
+- Badminton
 
 ## 📊 Github Stats
 
