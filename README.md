@@ -26,7 +26,7 @@ I am a perfectionist who hate being one. Love armwrestling, badminton and tradin
 - Singing
 - Badminton
 
-Click This !!!
+## Click This Discord !!!
 <a href="https://youtu.be/dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" />
 </a>
